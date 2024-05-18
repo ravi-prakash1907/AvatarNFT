@@ -1,0 +1,33 @@
+{
+    "description": "Second NFT.",
+    "image": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/tempNFT2.jpg",
+    "name": "Temp NFT Avatar - 2",
+    
+    "attributes": [
+        {
+            "trait_type": "readOnly",
+            "value": [
+                {  
+          "family": "F1",
+          "collection": {
+            "name": "C1",
+            "generator": "copilot",  
+            "category": ["Cubism", "Vector"],  
+            "id": "TA1CF2" 
+          }
+           }
+            ]
+        },
+        {
+            "trait_type": "writable",
+            "value": [
+                {  
+            "seed": "2597",  
+            "aliasName": "Temp NFT Avatar - b"
+        }
+            ]
+        }
+    ],
+    
+    "external_url": "https://ravi-prakash1907.gitlab.io",
+}
