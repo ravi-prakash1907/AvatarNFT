@@ -8,15 +8,20 @@
             "trait_type": "readOnly",
             "value": [
                 {  
-          "family": "F1",
-          "collection": {
-            "name": "C1",
-            "generator": "copilot",  
-            "category": ["Cubism", "Vector"],  
-            "id": "TA1CF2" 
-          }
-           }
-            ]
+                    "family": "F1",
+                    "collection": {
+                        "name": "C1",
+                        "generator": "copilot",  
+                        "category": [
+                            {
+                                "1": "Cubism", 
+                                "2": "Vector"
+                            }
+                        ],  
+                        "id": "TA1CF2" 
+                    }
+                }
+        ]
         },
         {
             "trait_type": "writable",
