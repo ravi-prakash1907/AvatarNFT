@@ -1,7 +1,7 @@
 {
-    "description": "Lady Vector",
+    "description": "Female face vector art NFT.",
     "image": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/tempNFT1.jpg",
-    "name": "Temp NFT Avatar - 1",
+    "name": "Lady Vector",
   
     "readOnly_attributes": {
       "value": {
@@ -21,7 +21,7 @@
     "writable_attributes": {
       "value": {
         "seed": "1919",
-        "aliasName": "Female face vector art NFT."
+        "aliasName": "Temp NFT Avatar - 1"
       }
     },
   
