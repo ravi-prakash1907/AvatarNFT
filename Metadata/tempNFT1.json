@@ -1,38 +1,29 @@
 {
-    "description": "First NFT.",
+    "description": "Lady Vector",
     "image": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/tempNFT1.jpg",
     "name": "Temp NFT Avatar - 1",
-    
-    "attributes": [
-        {
-            "trait_type": "readOnly",
-            "value": [
-                {  
-                    "family": "F1",
-                    "collection": {
-                        "name": "C1",
-                        "generator": "copilot",  
-                        "category": [
-                            {
-                                "1": "Cubism", 
-                                "2": "Vector"
-                            }
-                        ],  
-                        "id": "TA1CF1" 
-                    }
-                }
-            ]
-        },
-        {
-            "trait_type": "writable",
-            "value": [
-                {  
-            "seed": "1919",  
-            "aliasName": "Temp NFT Avatar - a"
+  
+    "readOnly_attributes": {
+      "value": {
+        "family": "F1",
+        "collection": {
+          "name": "C1",
+          "generator": "copilot",
+          "category": {
+            "1": "Cubism",
+            "2": "Vector"
+          },
+          "id": "TA1CF1"
         }
-            ]
-        }
-    ],
-    
+      }
+    },
+  
+    "writable_attributes": {
+      "value": {
+        "seed": "1919",
+        "aliasName": "Female face vector art NFT."
+      }
+    },
+  
     "external_url": "https://ravi-prakash1907.gitlab.io"
 }
