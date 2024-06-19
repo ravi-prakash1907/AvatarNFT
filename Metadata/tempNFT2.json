@@ -10,7 +10,7 @@
           "name": "C1",
           "generator": "copilot",
           "category": {
-            "1": "Cubism",  // Assuming "1" and "2" are keys for categories
+            "1": "Cubism",
             "2": "Vector"
           },
           "id": "TA1CF2"
