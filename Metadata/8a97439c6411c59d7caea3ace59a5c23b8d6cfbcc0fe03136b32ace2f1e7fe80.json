@@ -1,0 +1,25 @@
+{
+  "description": "A cozy cabin nestled in the woods",
+  "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/8a97439c6411c59d7caea3ace59a5c23b8d6cfbcc0fe03136b32ace2f1e7fe80.jpg",
+  "name": " Woodland Retreat",
+  "readOnly_attributes": {
+    "value": {
+      "family": " Architecture",
+      "collection": {
+        "name": " Cozy Hideaways",
+        "generator": " Architectural Design Software",
+        "category": {
+          "1": "texture"
+        },
+        "id": " A3K2"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": " 111",
+      "aliasName": " Virtual Self"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}

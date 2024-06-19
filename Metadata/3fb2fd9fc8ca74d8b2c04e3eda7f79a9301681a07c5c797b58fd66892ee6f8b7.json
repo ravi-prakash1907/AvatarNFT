@@ -1,0 +1,25 @@
+{
+  "description": "A playful puppy chasing its tail",
+  "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/3fb2fd9fc8ca74d8b2c04e3eda7f79a9301681a07c5c797b58fd66892ee6f8b7.jpg",
+  "name": " Puppy Playtime",
+  "readOnly_attributes": {
+    "value": {
+      "family": " Toys",
+      "collection": {
+        "name": " Playful Companions",
+        "generator": " Animation Studio",
+        "category": {
+          "1": "product"
+        },
+        "id": " 0CK3"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": " 29782",
+      "aliasName": " Alternative"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}

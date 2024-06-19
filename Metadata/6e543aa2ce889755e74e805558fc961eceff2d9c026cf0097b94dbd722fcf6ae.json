@@ -1,0 +1,26 @@
+{
+  "description": "A shimmering seashell",
+  "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/6e543aa2ce889755e74e805558fc961eceff2d9c026cf0097b94dbd722fcf6ae.jpg",
+  "name": "Seashell Serenity",
+  "readOnly_attributes": {
+    "value": {
+      "family": "Nature",
+      "collection": {
+        "name": "Ocean Treasures",
+        "generator": "3D Modeling Software",
+        "category": {
+          "1": "seashell",
+          "2": "lol"
+        },
+        "id": "G2K1"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": "12345",
+      "aliasName": "Shimmering Shell"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}

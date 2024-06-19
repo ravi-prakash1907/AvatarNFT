@@ -1,0 +1,25 @@
+{
+  "description": "A vibrant coral reef teeming with life",
+  "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/b3a293851a291a89e5231a74bd52e0b377371e36f934b0a9d856b0353f31c55d.jpg",
+  "name": " Coral Caprice",
+  "readOnly_attributes": {
+    "value": {
+      "family": " Underwater",
+      "collection": {
+        "name": " Coral Kingdom",
+        "generator": " Underwater Camera",
+        "category": {
+          "1": "style"
+        },
+        "id": " D1F2"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": " 9902",
+      "aliasName": " Digital Twin"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}

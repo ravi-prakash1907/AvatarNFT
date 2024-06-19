@@ -1,0 +1,25 @@
+{
+  "description": "A majestic mountain peak",
+  "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/9eadd7b88313cb1671d9dbb7881d0084940afcdb691531aa4f5e23549846f4e7.jpg",
+  "name": " Mountain Majesty",
+  "readOnly_attributes": {
+    "value": {
+      "family": " Animals",
+      "collection": {
+        "name": " Mountain Views",
+        "generator": " Landscape Photography",
+        "category": {
+          "1": "color"
+        },
+        "id": " T0C2"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": " 35",
+      "aliasName": " Temp Name"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}
