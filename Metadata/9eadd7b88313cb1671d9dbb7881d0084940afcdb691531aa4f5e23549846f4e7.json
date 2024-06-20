@@ -1,24 +1,24 @@
 {
-  "description": "A majestic mountain peak",
+  "description": "A vibrant coral reef teeming with life",
   "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/9eadd7b88313cb1671d9dbb7881d0084940afcdb691531aa4f5e23549846f4e7.jpg",
-  "name": " Mountain Majesty",
+  "name": " Coral Caprice",
   "readOnly_attributes": {
     "value": {
-      "family": " Animals",
+      "family": " Underwater",
       "collection": {
-        "name": " Mountain Views",
-        "generator": " Landscape Photography",
+        "name": " Coral Kingdom",
+        "generator": " Underwater Camera",
         "category": {
-          "1": "color"
+          "1": "style"
         },
-        "id": " T0C2"
+        "id": " D1F2"
       }
     }
   },
   "writable_attributes": {
     "value": {
-      "seed": " 35",
-      "aliasName": " Temp Name"
+      "seed": " 9902",
+      "aliasName": " Digital Twin"
     }
   },
   "external_url": "https://ravi-prakash1907.gitlab.io"

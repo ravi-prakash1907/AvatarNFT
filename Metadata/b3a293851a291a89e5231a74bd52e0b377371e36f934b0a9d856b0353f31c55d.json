@@ -1,24 +1,24 @@
 {
-  "description": "A vibrant coral reef teeming with life",
+  "description": "A cozy cabin nestled in the woods",
   "imgPath": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Metadata/b3a293851a291a89e5231a74bd52e0b377371e36f934b0a9d856b0353f31c55d.jpg",
-  "name": " Coral Caprice",
+  "name": " Woodland Retreat",
   "readOnly_attributes": {
     "value": {
-      "family": " Underwater",
+      "family": " Architecture",
       "collection": {
-        "name": " Coral Kingdom",
-        "generator": " Underwater Camera",
+        "name": " Cozy Hideaways",
+        "generator": " Architectural Design Software",
         "category": {
-          "1": "style"
+          "1": "texture"
         },
-        "id": " D1F2"
+        "id": " A3K2"
       }
     }
   },
   "writable_attributes": {
     "value": {
-      "seed": " 9902",
-      "aliasName": " Digital Twin"
+      "seed": " 111",
+      "aliasName": " Virtual Self"
     }
   },
   "external_url": "https://ravi-prakash1907.gitlab.io"
