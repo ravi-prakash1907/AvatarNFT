@@ -1,0 +1,25 @@
+{
+  "description": "A vibrant coral reef teeming with life",
+  "image": "https://raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/tempNFT1.jpg",
+  "name": "Seashell Serenity",
+  "readOnly_attributes": {
+    "value": {
+      "family": " Animals",
+      "collection": {
+        "name": " Mountain Views",
+        "generator": " Landscape Photography",
+        "category": {
+          "1": "color"
+        },
+        "id": " T0C2"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": " 35",
+      "aliasName": " Temp Name"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io"
+}
