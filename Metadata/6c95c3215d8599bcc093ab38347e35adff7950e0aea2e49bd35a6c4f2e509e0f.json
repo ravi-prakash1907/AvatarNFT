@@ -1,0 +1,26 @@
+{
+  "description": "Female face vector art NFT.",
+  "image": "https:/raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/e8813a7cfe877ed0a963d89edac32ec4b718d8bad920c8bf06626416da00dcc5.jpg",
+  "name": "Seashell Serenity",
+  "readOnly_attributes": {
+    "value": {
+      "family": "F1",
+      "collection": {
+        "name": "C1",
+        "generator": "copilot",
+        "category": {
+          "1": "Cubism",
+          "2": "Vector"
+        },
+        "id": "TA1CF1"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": "1022",
+      "aliasName": "An Poem"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io/poem/"
+}
