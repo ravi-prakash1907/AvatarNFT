@@ -1,0 +1,26 @@
+{
+  "description": "A poem on resilience through imperfection, striving, rising again, and understanding of self.",
+  "image": "https:/raw.githubusercontent.com/ravi-prakash1907/AvatarNFT/main/Avatars/e8813a7cfe877ed0a963d89edac32ec4b718d8bad920c8bf06626416da00dcc5.jpg",
+  "name": "Perfectly Imperfect",
+  "readOnly_attributes": {
+    "value": {
+      "family": "Poetry",
+      "collection": {
+        "name": "Literature",
+        "generator": "Photoshop CC",
+        "category": {
+          "1": "Motivation",
+          "2": "Self"
+        },
+        "id": "SMS221018"
+      }
+    }
+  },
+  "writable_attributes": {
+    "value": {
+      "seed": "1022",
+      "aliasName": "An Poem"
+    }
+  },
+  "external_url": "https://ravi-prakash1907.gitlab.io/poem/"
+}
